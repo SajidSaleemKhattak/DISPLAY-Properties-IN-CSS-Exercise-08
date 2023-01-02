@@ -1,0 +1,110 @@
+.input1{
+display: block;
+margin-bottom: 5px;
+}
+.input2{
+    display: block;
+}
+.para1{
+    display: inline-block;
+    width: 320px;
+    vertical-align: middle;
+}
+.btn1{
+   padding: 6px 6px;
+}
+.btn2{
+    padding: 6px 6px;
+}
+.image1{
+    width: 180px;
+    display:block;
+    margin: 0 auto;
+}
+.search-bar{
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    padding: 7px 16px;
+    width: 350px;
+    border-radius: 25px;
+    border-style: solid;
+    margin: 10px auto;
+    display: block;
+}
+.input3{
+    width: 120px;
+    padding: 10px 8px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 2px;
+}
+.input4{
+    width: 120px;
+    padding: 10px 8px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 2px;
+}
+.input5{
+    margin-top: 5px;
+    width: 264px;
+    padding: 10px 8px;
+    display:block;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-width: 2px;
+}
+.btn3{
+    background-color: rgb(4, 87, 221);
+    color: white;
+    display: block;
+    font-weight: bold;
+    font-family: Arial;
+    padding: 10px 8px;
+    width: 282px;
+    font-size: 18px;
+    border-style: none;
+    border-radius: 4px;
+}
+.para2{
+    font-family: Arial;
+    font-size: 24px;
+}
+.input6{
+    display: block;
+    padding: 7px 10px;
+    margin-bottom: 6px;
+    border-style: none;
+    background-color: gainsboro;
+    width: 220px;
+}
+.input7{
+    border-style: none;
+    display: block;
+    padding: 7px 10px;
+    background-color: gainsboro;
+    width: 220px;
+}
+.btn4{
+    margin-top: 6px;
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    /* width:120px; */
+    border-style: none;
+}
+.btn5{
+    margin-top: 6px;
+    background-color: rgb(255, 248, 248);
+    color: rgb(0, 0, 0);
+    padding: 8px 12px;
+    /* width:140px; */
+    border-style: none;
+}
+h2{
+    
+    font-family: Arial;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 111, 0);
+    color: rgb(254, 7, 7);
+}
